@@ -4,11 +4,11 @@
 		<engineLink>https://wordpress.org/</engineLink>
 		<homePageLink>https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://mohammedjaseem.github.io/Dr-Shabeer-Perio-Clinic/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://laserdentists.in/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://laserdentists.in/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://laserdentists.in/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://laserdentists.in/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://laserdentists.in/wp-json/" />
 			</apis>
 	</service>
 </rsd>
